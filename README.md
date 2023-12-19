@@ -35,7 +35,7 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 🛸 Personal Finance Management System (2023 March)
 
-~ <b>Skills</b> (PYTHON,SQL,Numpy,openpyxl)
+~ <b>Skills</b> (PYTHON,Tkinter,SQL,Numpy,openpyxl)
 
 ~ https://github.com/25sudharsan27/Personal-finance-Management-System
 
