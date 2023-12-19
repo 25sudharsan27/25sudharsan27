@@ -7,13 +7,13 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 <h1 align="left">Skills</h1>
 
-🖥️ FullStack (HTML,CSS,JS,MERN Stack...)
+🖥️ FullStack (HTML,CSS,JS,ReactJs,MERN Stack...)
 
 🛸 Object Oriented Programming (PYTHON,C++)
 
 🗃️ Data Structures and Algorithms (C++)
 
-💾 Data Base Management System (SQL,MySQL,Mongodb)
+💾 Data Base Management System (SQL,MySQL,Mongodb,Nodejs,Expressjs)
 
 <h1 align="left">Projects</h1>
 
