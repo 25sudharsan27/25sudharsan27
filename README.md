@@ -23,6 +23,7 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 ~ https://github.com/25sudharsan27/flipkart-clone.git
 
+<hr>
 
 🖥️ Baskara Tex (2023 October)
 
