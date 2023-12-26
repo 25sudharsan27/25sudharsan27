@@ -51,6 +51,11 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 ~ http://sudharsan.liveblog365.com/
 
+**Screenshots**
+<img src="bio1.png">
+<img src="bio2.png">
+<img src="bio3.png">
+
 <hr>
 
 🛸 Personal Finance Management System (2023 March)
