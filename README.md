@@ -38,6 +38,11 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 ~ http://baskaratex.liveblog365.com/
 
+**Screenshots**
+<img src="bas1.png">
+<img src="bas2.png">
+<img src="bas3.png">
+
 <hr>
 
 🖥️ Biodiversity Website (2023 April)
