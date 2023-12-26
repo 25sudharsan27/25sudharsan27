@@ -17,6 +17,13 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 <h1 align="left">Projects</h1>
 
+🖥️ Flipkart Clone (2023 December)
+
+~ <b> Skills</b> (HTML,CSS,REACT,NODE,EXPRESS,AXIOS,MONGODB)
+
+~ https://github.com/25sudharsan27/flipkart-clone.git
+
+
 🖥️ Baskara Tex (2023 October)
 
 ~<b> Skills</b> (HTML,CSS,BOOTSTRAP,SEO)
