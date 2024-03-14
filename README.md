@@ -15,22 +15,21 @@ I am a passionate, hungry person when it comes to 🔭 technology; I'm eager to 
 
 💾 Data Base Management System (SQL,MySQL,Mongodb,Nodejs,Expressjs)
 
-<h1 align="left">Star Projects</h1>
+<h1 align="left">⭐ Star Projects</h1>
+
+<hr>
+
+🖥️ Porfolio Webiste (2023 December)
 
 🖥️ Flipkart Clone (2023 December)
 
-<hr>
-
 🖥️ Baskara Tex (2023 October)
-
-<hr>
 
 🖥️ Biodiversity Website (2023 April)
 
-<hr>
-
 🛸 Personal Finance Management System (2023 March)
 
+<hr>
 
 <h1 align="left">Connect</h1>
 📫 25sudharsan27@gmail.com
