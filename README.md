@@ -40,6 +40,9 @@ on challenges and apply knowledge in real-world settings to make an impact.
 <h1 align="left">⭐ Star Projects</h1>
 
 <hr>
+- Khojo College (2025 Febrauary)
+
+- Pragmatic Project Consilium (2024 December)
 
 - Job Intern Catalyst (2024 September)
 
